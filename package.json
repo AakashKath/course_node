@@ -1,0 +1,23 @@
+{
+  "name": "course_node",
+  "version": "1.0.0",
+  "description": "Node.js Course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AakashKath/course_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AakashKath/course_node/issues"
+  },
+  "homepage": "https://github.com/AakashKath/course_node#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
